@@ -2,7 +2,7 @@
 
 ![marquee_promo_tile_1400x560](/resource/promo_tile/marquee_promo_tile_1400x560.png)
 
-# Brown Crown - Theme for Chromium-based Web Browsers
+# Brown Crown - _Theme for Chromium-based Web Browsers_
 
 ### Elevate your browser with the Brown Crown theme. A rich, earthy brown color palette adds a regal touch to your digital workspace.
 
@@ -57,6 +57,12 @@ First, download the latest released ZIP file from the [releases section](/../../
 [opera]: https://www.opera.com/
 [brave]: https://brave.com/
 
+- ✅ Tested/Supported
+
+- ☑️ Should work in theory
+
+- 🔴 Not Tested
+
 > [!NOTE]
 >
 > ### This theme uses Manifest V3 to ensure compatibility with the latest Chromium extension standards.
@@ -70,7 +76,7 @@ First, download the latest released ZIP file from the [releases section](/../../
 
 - I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
 
-  [iamprogrammer.lk](https://iamprogrammer.lk) 🔶 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk) 🔶 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk) 🔶 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
+  [iamprogrammer.lk](https://iamprogrammer.lk) 🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk) 🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk) 🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
 
 - [Contributors](/../../graphs/contributors)
 

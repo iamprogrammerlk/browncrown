@@ -10,7 +10,7 @@ PULL_REQUEST_DESCRIPTION
 
 - CHANGE_TWO.
 
-- [...]
+- ...
 
 ## Why Did it Change?
 
@@ -22,7 +22,7 @@ PULL_REQUEST_DESCRIPTION
 
 - REASON_TWO.
 
-- [...]
+- ...
 
 ## Acknowledgment
 

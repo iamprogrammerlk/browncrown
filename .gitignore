@@ -2,6 +2,8 @@
 
 ## All private resources files
 .private/
+.work_in_progress/
+.temporary/
 
 ## Miscellaneous
 .atom/

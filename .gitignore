@@ -6,6 +6,7 @@
 .temporary/
 
 ## Miscellaneous
+*.pyc
 .atom/
 .buildlog/
 migrate_working_dir/

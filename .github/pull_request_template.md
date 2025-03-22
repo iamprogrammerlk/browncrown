@@ -28,7 +28,7 @@ PULL_REQUEST_DESCRIPTION
 
 > [!CAUTION]
 >
-> ### Please do not remove this section from the pull request. Otherwise, your pull request will be rejected.
+> Please do not remove this section from the pull request. Otherwise, your pull request will be rejected.
 
 By opening this pull request, I agree to abide by the [Code of Conduct](../blob/main/code_of_conduct.md),
 [Security Policy](../blob/main/security.md), [Contribution Guidelines](../blob/main/contributing.md), and be bound by
@@ -47,4 +47,4 @@ and time of my contribution as proven by the revision information in GitHub.
 
 > [!IMPORTANT]
 >
-> ### All the pull requests must have the "Acknowledgment" section intact, read, and agreed upon by the contributor.
+> All the pull requests must have the "Acknowledgment" section intact, read, and agreed upon by the contributor.

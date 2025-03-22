@@ -11,7 +11,7 @@ digital workspace.
 >
 > # ⭐ Star This Repository
 >
-> ### If you enjoy this theme and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+> If you enjoy this theme and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
 
 ## Install
 
@@ -70,7 +70,7 @@ Then, unzip the file and follow the instructions below, which may vary slightly 
 
 > [!NOTE]
 >
-> ### This theme uses Manifest V3 to ensure compatibility with the latest Chromium extension standards.
+> This theme uses Manifest V3 to ensure compatibility with the latest Chromium extension standards.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,11 +120,9 @@ the [Contributor License Agreement](/contributor_license_agreement.md).
 
 > [!IMPORTANT]
 >
-> ### This project is not a platform for discussing
+> This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
 >
-> ### politics, social issues, race, religion, gender, or sexual orientation.
->
-> ### Please keep those discussions elsewhere.
+> Please keep those discussions elsewhere.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

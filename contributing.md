@@ -2,9 +2,9 @@
 
 > [!CAUTION]
 >
-> ### This project is not a place for expressing politics, social issues, race, religion, gender, or sexual orientation.
+> This project is not a place for expressing politics, social issues, race, religion, gender, or sexual orientation.
 >
-> ### Please keep those discussions elsewhere.
+> Please keep those discussions elsewhere.
 
 ## We welcome all contributions and will give full credit to all contributors.
 
@@ -18,13 +18,13 @@ Assist the project by helping other users, enhancing the documentation, or valid
 
 > [!TIP]
 >
-> ### Don't forget to follow the project and leave a ⭐ GitHub Star ⭐.
+> Don't forget to follow the project and leave a ⭐ GitHub Star ⭐.
 
 ## Contributions
 
 > [!IMPORTANT]
 >
-> ### We only accept contributions through Pull Requests on GitHub.
+> We only accept contributions through Pull Requests on GitHub.
 
 If you have technical or coding experience, you can assist by:
 
